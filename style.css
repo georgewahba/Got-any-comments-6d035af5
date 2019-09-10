@@ -1,0 +1,12 @@
+label{
+	display: block;
+}
+
+textarea{
+	border: solid;
+	border-color: red;
+}
+textarea:focus{
+	border: solid;
+	border-color: green;
+}
